@@ -1,15 +1,27 @@
+.center {
+    text-align: center;
+}
+.centerImage {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
 .bigImage {
-    width: 50%;
+    width: 350px;
 }
 
 .normalImage {
-    width: 30%;
+    width: 150px;
 }
 
 .smallImage {
-    width: 10%;
+    width: 100px;
 }
 
 .squareImage {
-    height: 80px;
+    width: 56px;
+}
+
+.portraitImage {
+    height: 120px;
 }
