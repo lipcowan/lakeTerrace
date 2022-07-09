@@ -1,0 +1,15 @@
+.bigImage {
+    width: 50%;
+}
+
+.normalImage {
+    width: 30%;
+}
+
+.smallImage {
+    width: 10%;
+}
+
+.squareImage {
+    height: 80px;
+}
